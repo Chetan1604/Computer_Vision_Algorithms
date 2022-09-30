@@ -1,1 +1,3 @@
-# OPENCV_CHETAN
+Computer Vision Algorithms Collection
+
+- Contours Detection
